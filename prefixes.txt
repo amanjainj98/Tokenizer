@@ -1,0 +1,150 @@
+| a- || "not" || ''[[wikt:asymmetric|asymmetric]]'', "not symmetric" || a- before [[consonant]]s, an- before [[vowel]]s 
+|-
+| acro- || "high" || ''[[acrophobia]]'', "fear of heights" ([[Special:PrefixIndex/acro|more]]) || 
+|-
+| allo- || "other" || ''[[allotransplantation]]'', "transplant of tissue from another person" ([[Special:PrefixIndex/allo|more]]) || 
+|-
+| alter- || "at least secondary" || ''[[alter ego]]'', "an at least secondary personality" ([[Special:PrefixIndex/alter|more]]) || 
+|-
+| an- || "additional" || ''[[anaerobe|anaerobic]]'', "additionally to a multicellular or unicellular organism relating to oxygen" || a- before [[consonant]]s, an- before [[vowel]]s 
+|-
+| ante- || "prior" || ''[[wikt:antebellum|antebellum]]'', "before a war" ||  
+|-
+| anti- || "opposite" || ''[[anti-inflammatory]]'', "against inflammation" ([[Special:PrefixIndex/anti|more]]) ||  
+|-
+| auto- || "by oneself or itself" || ''[[automobile]]'', "moves itself" ([[Special:PrefixIndex/auto|more]]) ||  
+|-
+| bi- || "two" || ''[[wikt:bicentennial|bicentennial]]'', "consisting of or occurring every two centuries" 
+''[[binomial (disambiguation)|binomial]]'', "two terms" 
+|| See [[Numeral prefix#Table of number prefixes in English|number prefixes in English]] 
+|-
+| co- || "together" || ''[[cooperation]]'', "working together" ||  
+|-
+| contra- || "below" ; "against" || ''[[contraindication]]'', "against indication" ([[Special:PrefixIndex/contra|more]]) ||  
+|-
+| counter- || "against" || ''[[countermeasure]]'', "action against" ([[Special:PrefixIndex/counter|more]]) ||  
+|-
+| de- || "negative, remove" || ''[[wikt:|deactivate]]'', "stop from working" ||  
+|-
+| di- || "two" || ''[[diatomic molecule|diatomic]]'', "two atoms" 
+[[Dipole (disambiguation)|''dipole'']], "two poles" 
+|| See [[Numeral prefix#Table of number prefixes in English|number prefixes in English]] 
+|-
+| dis- || "negative, remove" || ''[[wikt:disappear|disappear]]'', "vanish" ([[Special:PrefixIndex/dis|more]]) ||  
+|-
+| down- || "down"; "reduce" || ''[[wikt:downshift|downshift]]'', "shift to a lower gear" <br /> ''[[downregulation and upregulation|downregulation]]'', "regulation toward lessened expression" ([[Special:PrefixIndex/down|more]]) ||  
+|-
+| dys- || "negative, badly, wrongly" || ''[[wikt:dysfunction|dysfunction]]'', "bad function" ([[Special:PrefixIndex/dys|more]]) ||  
+|-
+| epi- || "upon addition" , "above" || ''[[epidural]]'', "outside the dura mater" ([[Special:PrefixIndex/epi|more]]) ||  
+|-
+| extra- || "to a greater extent" ; "beyond" || ''[[extracellular]]'', "outside a cell" ([[Special:PrefixIndex/extra|more]]) ||  
+|-
+|fore- || "before" || ''[[Foresight (psychology)|foresight]]'', "seeing beforehand" ([[Special:PrefixIndex/fore|more]]) ||
+|-
+| hemi- || "[[half]]" || ''[[wikt:hemisphere|hemisphere]]'', "half of a sphere" ([[Special:PrefixIndex/hemi|more]]) || See [[Numeral prefix#Table of number prefixes in English|number prefixes in English]] 
+|-
+| hexa- || "six" || ''[[hexagon]]'', "six-sided polygon" ([[Special:PrefixIndex/hex|more]]) || See [[Numeral prefix#Table of number prefixes in English|number prefixes in English]] 
+|-
+| hyper- || "beyond" || ''[[hypercalcaemia|hypercalcemia]]'', "too much calcium in the blood" ([[Special:PrefixIndex/hyper|more]]) || See [[Hyper (disambiguation)|hyper]]
+|-
+| hypo- || "marginal"; "not enough" || ''[[hypokalemia]]'', "not enough potassium in the blood" ([[Special:PrefixIndex/hypo|more]]) ||  
+|-
+| ig- || "not" || ''[[wikt:ignoble|ignoble]]'', "not noble" <br /> ''[[wikt:ignorant|ignorant]]'', (from roots meaning) "not knowing" <br /> ([[Special:PrefixIndex/igno|more]]) || ig- (before gn- or n-), il- (before l-), im- (before b-, m-, or p-), in- (before most letters), or ir- (before r-) 
+|-
+| il- || "within" ; "toward" ; "marginal or not" || ''[[Crime|illegal]]'', "not legal" ([[Special:PrefixIndex/ille|more]]) || ig- (before gn- or n-), il- (before l-), im- (before b-, m-, or p-), in- (before most letters), or ir- (before r-) 
+|-
+| im- || "within" ; "toward" ; "marginal or not" || ''[[wikt:imbalance|imbalance]]'', "lack of balance" ([[Special:PrefixIndex/imm|more]]) || ig- (before gn- or n-), il- (before l-), im- (before b-, m-, or p-), in- (before most letters), or ir- (before r-) 
+|-
+| in- || "within" ; "toward" ; "marginal or not" || ''[[wikt:inactive|inactive]]'', "not active" || ig- (before gn- or n-), il- (before l-), im- (before b-, m-, or p-), in- (before most letters), or ir- (before r-) 
+|-
+| infra- || "below" || ''[[infrared]]'', "below red on the spectrum" ([[Special:PrefixIndex/infra|more]]) ||  
+|-
+| inter- || "between" || ''[[wikt:interobserver|interobserver]]'', "between observers" ([[Special:PrefixIndex/inter|more]]) ||  
+|-
+| intra- || "within" || ''[[intracellular]]'', "inside a cell" ([[Special:PrefixIndex/intra|more]]) ||  
+|-
+| ir- || "within" ; "toward" ; "marginal or not" || ''[[wikt:irregular|irregular]]'', "not regular" ([[Special:PrefixIndex/irr|more]]) || ig- (before gn- or n-), il- (before l-), im- (before b-, m-, or p-), in- (before most letters), or ir- (before r-) 
+|-
+| macro- || "large-scale" ; "exceptionally prominent" || ''[[macroeconomics]]'', "workings of entire economies" ([[Special:PrefixIndex/macro|more]]) ||  
+|-
+| mal- || "unpleasant", "not" || ''[[malocclusion]]'', "bad occlusion" ([[Special:PrefixIndex/malp|more]]) ||  
+|-
+| maxi- || "big", "as big as possible" || ''[[maxi single|maxi-single]]'', "single with extras" ([[Special:PrefixIndex/maxi|more]]) ||  
+|-
+| meso- || "middle" || ''[[mesoamerica]]n'', "middle of the Americas" ([[Special:PrefixIndex/meso|more]]) ||  
+|-
+| meta- || "self-referential" || ''[[metadata]]'', "data that provides information about other data" ([[Special:PrefixIndex/meta|more]]) ||  
+|-
+| micro- || "small-scale" || ''[[micrometer]]'', "small-measurement instrument" ([[Special:PrefixIndex/micro|more]]) ||  
+|-
+| mid- || "middle" || ''[[wikt:midportion|midportion]]'', "middle part" ([[Special:PrefixIndex/mid|more]]) ||  
+|-
+| mini- || "small" || ''[[wikt:miniature|miniature]]'', "small"; "smaller version" ([[Special:PrefixIndex/mini|more]]) ||  
+|-
+| mis- || "bad", "wrong" || ''[[wikt:misspelling#Noun|misspelling]]'', "incorrect spelling" ([[wikt:Special:PrefixIndex/mis|more]]) ||  
+|-
+| mono- || "one" || ''[[monotheism]]'', "belief in one god" ([[Special:PrefixIndex/mono|more]]) || See [[Numeral prefix#Table of number prefixes in English|number prefixes in English]] 
+|-
+| multi- || "many", "more than one" || ''[[wikt:multiplex|multiplex]]'', "many signals in one circuit" ([[Special:PrefixIndex/multi|more]]) ||  
+|-
+| non- || "no", "not" || ''[[wikt:nonstop|nonstop]]'', "without stopping" ([[Special:PrefixIndex/non|more]]) ||  
+|-
+| octo- || "eight" || ''[[octopus]]'', "eight-footed" ([[Special:PrefixIndex/octo|more]]) || See [[Numeral prefix#Table of number prefixes in English|number prefixes in English]] 
+|-
+| over- || "excess", "too much"; <br /> "on top" || ''[[overexpression]]'', "too much expression" <br /> ''[[overcoat]]'', "outer coat" ([[Special:PrefixIndex/over|more]]) ||  
+|-
+| pan- || "all" || ''[[pancytopenia]]'', "low counts across all cell types" <br /> ''pan-American'', "involving all of the Americas" <br /> ([[Special:PrefixIndex/pan|more]]) || Sometimes "all-" is used, especially in Asian English, where ''All-Union'' was a standard translation of the Russian word meaning "pan-USSR" or "USSR-wide", and "All-India" is a similar standard term in India, comparable to words such as ''national'', ''nationwide'', or ''federal'' (in the case of [[federation]]s). 
+|-
+| para- || "beside"; "beyond"; "related to"; "altered" || ''[[paranormal]]'', "beyond the normal" <br /> ''[[paresthesia]]'', "altered sensation" <br /> ''[[paramilitary]]'', "military-like" ([[Special:PrefixIndex/para|more]]) ||  
+|-
+| penta- || "five" || ''[[pentateuch]]'', "the five books of Moses" ([[Special:PrefixIndex/penta|more]]) || See [[Numeral prefix#Table of number prefixes in English|number prefixes in English]] 
+|-
+| per- || "through"; "throughout" || ''[[percutaneous]]'', "through the skin" ([[Special:PrefixIndex/per|more]]) ||  
+|-
+| peri- || "around" || ''[[wikt:pericardial|pericardial]]'', "around the heart" ([[Special:PrefixIndex/peri|more]]) ||  
+|-
+| poly- || "many" || ''[[polyglotism|polyglot]]'', "many languages" ([[Special:PrefixIndex/poly|more]]) ||  
+|-
+| post- || "after" || ''[[wikt:postoperative|postoperative]]'', "after surgery" ([[Special:PrefixIndex/post|more]]) ||  
+|-
+| pre- || "before"; "already" || ''[[wikt:preassemble|preassembled]]'', "already built" ([[Special:PrefixIndex/pre|more]]) ||  
+|-
+| pro- || "on behalf of" ; "before" || ''pro-science'', "in favor of science" ([[Special:PrefixIndex/pro|more]]) ||  
+|-
+| proto-  || "first"; "primitive"; "precursor" || ''[[Proto-Indo-European language|Proto-Indo-European]]'', "precursor of Indo-European" ([[Special:PrefixIndex/proto|more]]) ||  
+|-
+| pseudo- || "false", "[[wikt:specious|specious]]" || ''[[pseudonym]]'', "fake name" ([[Special:PrefixIndex/pseudo|more]]) ||  
+|-
+| quadri- || "four" || ''[[quadrilateral]]'', "four-sided" ([[Special:PrefixIndex/quadr|more]]) || See [[Numeral prefix#Table of number prefixes in English|number prefixes in English]] 
+|-
+| quasi- || "somewhat", "resembling" || [[quasiparticle|quasiparticulate]], "resembling particles" ([[Special:PrefixIndex/quasi|more]]) ||  
+|-
+| re- || "again" || ''[[wikt:reestablish|reestablish]]'', "establish again" ([[Special:PrefixIndex/re|more]]) ||  
+|-
+| self- || "[acting on or by] oneself" || ''[[wikt:self-cleaning|self-cleaning]]'', "cleans itself" ([[Special:PrefixIndex/self-|more]]) || By normative convention, always hyphenated (except for a few multiprefix compounds such as ''unselfconscious'') 
+|-
+| semi- || "partial"; "somewhat"; "half" || ''[[Semi-arid climate|semiarid]]'', "somewhat arid" ([[Special:PrefixIndex/semi|more]]) || See [[Numeral prefix#Table of number prefixes in English|number prefixes in English]] 
+|-
+| sub- || "below" || ''[[wikt:subzero|subzero]]'', "below zero" ([[Special:PrefixIndex/sub|more]]) ||  
+|-
+| super- || "above"; "more than"; "great" || ''[[supermarket]]'', "big market" ([[Special:PrefixIndex/super|more]]) ||  
+|-
+| supra- || "above" || ''supraorbital'', "above the eye sockets" ([[Special:PrefixIndex/supra|more]]) ||  
+|-
+| tetra- || "four" || ''[[tetravalence|tetravalent]]'', "four valence electrons" ([[Special:PrefixIndex/tetra|more]]) || See [[Numeral prefix#Table of number prefixes in English|number prefixes in English]] 
+|-
+| trans- || "across"; "connecting" || ''[[wikt:transatlantic|transatlantic]]'', "across the Atlantic Ocean" ([[Special:PrefixIndex/trans|more]]) ||  
+|-
+| tri- || "three" || ''[[wikt:tripartite|tripartite]]'', "three parts" ([[Special:PrefixIndex/tri|more]]) ||  
+|-
+| ultra- || "beyond"; "extremely" || ''[[ultraviolet]]'', "beyond violet on the spectrum" ([[Special:PrefixIndex/ultra|more]]) ||  
+|-
+| un- || "not"; "remove"; "opposite" || ''[[wikt:unopened|unopened]]'', "not opened" ([[Special:PrefixIndex/un|more]]) ||  
+|-
+| under- || "beneath"; "not enough" || ''[[underexposure]]'', "not enough exposure" ([[Special:PrefixIndex/under|more]]) ||  
+|-
+| up- || "up"; "increase" || ''[[wikt:upshift|upshift]]'', "shift to a higher gear" <br /> ''[[downregulation and upregulation|upregulation]]'', "regulation toward increased expression" ([[Special:PrefixIndex/up|more]]) ||  
+|-
+| xeno- || "foreign" || ''[[xenophobia]]'', "fear of strangers or foreigners" <br /> ''[[xenotransplantation]]'', "transplant from another species" ([[Special:PrefixIndex/xeno|more]]) || 
+|}
