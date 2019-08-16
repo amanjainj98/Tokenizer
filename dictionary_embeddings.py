@@ -83,4 +83,4 @@ def generate_dictionary_embeddings(dictionary_directory, embedding_size, num_ite
 
 
 
-embeddings = generate_dictionary_embeddings('data/',5,1)
+# embeddings = generate_dictionary_embeddings('data/',5,1)

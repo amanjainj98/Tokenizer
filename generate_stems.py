@@ -84,6 +84,6 @@ def generate_stems(lemma_file):
 	return stem_index,index_bases
 
 
-stem_index,index_bases = generate_stems('lemma.en.txt')
-for key, value in index_bases.items():
-		print(key,value)
+# stem_index,index_bases = generate_stems('lemma.en.txt')
+# for key, value in index_bases.items():
+# 		print(key,value)
