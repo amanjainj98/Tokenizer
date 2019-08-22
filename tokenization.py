@@ -128,10 +128,10 @@ def load_vocab(vocab_file):
       token = convert_to_unicode(reader.readline())
       if not token:
         break
-      token = token.strip().split()
-      tok = token[0]
-      index = token[1]
-      vocab[tok] = index
+      token = token.split(',')
+      tok = token[0].strip()
+      index = token[1].strip()
+      vocab[tok] = int(index)
   return vocab
 
 
@@ -330,6 +330,10 @@ class WordpieceTokenizer(object):
 
     output_tokens = []
     for token in whitespace_tokenize(text):
+      if _is_number(token):
+        output_tokens.extend(['[NUM]'])
+        continue
+
       chars = list(token)
       if len(chars) > self.max_input_chars_per_word:
         output_tokens.append(self.unk_token)
@@ -338,27 +342,96 @@ class WordpieceTokenizer(object):
       is_bad = False
       start = 0
       sub_tokens = []
+      state = 0
+      found_root = False
       while start < len(chars):
         end = len(chars)
         cur_substr = None
         while start < end:
           substr = "".join(chars[start:end])
-          if start > 0:
-            substr = "##" + substr
-          if substr in self.vocab:
-            cur_substr = substr
-            break
+          if state == 0:            
+            if substr in self.vocab:
+              cur_substr = substr
+              state = 1
+              found_root = True
+              break
+
+            if "**"substr in self.vocab:
+              cur_substr = substr
+              break
+
+          elif state == 1:
+            if substr in self.vocab:
+              cur_substr = substr
+              found_root = True
+              break
+
+            if "##"+substr in self.vocab:
+              cur_substr = substr
+              state = 3
+              break
+
+          elif state == 2:
+            if substr in self.vocab:
+              cur_substr = substr
+              found_root = True
+              break
+
+            if "##"+substr in self.vocab:
+              cur_substr = substr
+              state = 3
+              break
+
+            suf_substr = "".join(chars[start-1:end])
+            if "##"+suf_substr in self.vocab:
+              cur_substr = substr
+              state = 3
+              break
+
+
+          elif state == 3:
+            if "##"+substr in self.vocab:
+              cur_substr = substr
+              break
+
+
           end -= 1
         if cur_substr is None:
           is_bad = True
           break
         sub_tokens.append(cur_substr)
+
+        if found_root:
+          if end-start < 4:
+            state = 1
+          else:
+            state = 2
+
+
         start = end
 
       if is_bad:
-        output_tokens.append(self.unk_token)
-      else:
-        output_tokens.extend(sub_tokens)
+        if state == 0:
+          sub_tokens.append(self.unk_token)
+          break
+
+        end = len(chars)
+        start -= 2
+        while(start < end):
+          substr = "".join(chars[start:end])
+          if "##"+substr in self.vocab:
+              cur_substr = substr
+              break
+          start++
+
+        if start==end:
+          sub_tokens.append(self.unk_token)
+        else:
+          sub_tokens.append(cur_substr)
+      
+
+      output_tokens.extend(sub_tokens)
+
     return output_tokens
 
 
