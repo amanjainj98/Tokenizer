@@ -122,13 +122,12 @@ def load_vocab(vocab_file):
   """Loads a vocabulary file into a dictionary. Read both the token and the index from the vocab file itself."""
   
   vocab = collections.OrderedDict()
-  index = 0
   with tf.gfile.GFile(vocab_file, "r") as reader:
     while True:
       token = convert_to_unicode(reader.readline())
       if not token:
         break
-      token = token.split(',')
+      token = token.split()
       tok = token[0].strip()
       index = token[1].strip()
       vocab[tok] = int(index)
@@ -356,8 +355,8 @@ class WordpieceTokenizer(object):
               found_root = True
               break
 
-            if "**"substr in self.vocab:
-              cur_substr = substr
+            if "**"+substr in self.vocab:
+              cur_substr = "**"+substr
               break
 
           elif state == 1:
@@ -367,7 +366,7 @@ class WordpieceTokenizer(object):
               break
 
             if "##"+substr in self.vocab:
-              cur_substr = substr
+              cur_substr = "##"+substr
               state = 3
               break
 
@@ -378,20 +377,20 @@ class WordpieceTokenizer(object):
               break
 
             if "##"+substr in self.vocab:
-              cur_substr = substr
+              cur_substr = "##"+substr
               state = 3
               break
 
             suf_substr = "".join(chars[start-1:end])
             if "##"+suf_substr in self.vocab:
-              cur_substr = substr
+              cur_substr = "##"+suf_substr
               state = 3
               break
 
 
           elif state == 3:
             if "##"+substr in self.vocab:
-              cur_substr = substr
+              cur_substr = "##"+substr
               break
 
 
@@ -420,9 +419,9 @@ class WordpieceTokenizer(object):
         while(start < end):
           substr = "".join(chars[start:end])
           if "##"+substr in self.vocab:
-              cur_substr = substr
+              cur_substr = "##"+substr
               break
-          start++
+          start+=1
 
         if start==end:
           sub_tokens.append(self.unk_token)

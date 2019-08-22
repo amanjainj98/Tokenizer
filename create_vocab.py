@@ -48,38 +48,38 @@ stop_words = ["i", "me", "my", "myself", "we", "our", "ours", "ourselves", "you"
 with open(vocab_file,'w') as f:
 
 	for k,v in stem_index.items():
-		f.write(k+"		,	"+str(v)+"\n")	
+		f.write(k+"			"+str(v)+"\n")	
 
 
 	for s in stop_words:
 		if s not in stem_index:
-			f.write(s+"		,	"+str(index)+"\n")
+			f.write(s+"			"+str(index)+"\n")
 			embeddings.append([initialize_random(embedding_size)])
 			index+=1	
 
 
 	for k,v in prefix_embeddings.items():
-		f.write("**"+k+"		,	"+str(index)+"\n")
+		f.write("**"+k+"		"+str(index)+"\n")
 		embeddings.append(v)
 		index+=1
 
 	for k,v in suffix_embeddings.items():
-		f.write("##"+k+"		,	"+str(index)+"\n")
+		f.write("##"+k+"		"+str(index)+"\n")
 		embeddings.append(v)
 		index+=1
 
 	for s in special_tokens:
-		f.write(s+"		,	"+str(index)+"\n")
+		f.write(s+"			"+str(index)+"\n")
 		embeddings.append([initialize_random(embedding_size)])
 		index+=1
 
 	for s in punctuations:
-		f.write(s+"		,	"+str(index)+"\n")
+		f.write(s+"			"+str(index)+"\n")
 	embeddings.append([initialize_random(embedding_size)])
 	index+=1
 
 	for s in mathematical_symbols:
-		f.write(s+"		,	"+str(index)+"\n")
+		f.write(s+"			"+str(index)+"\n")
 	embeddings.append([initialize_random(embedding_size)])
 	index+=1
 

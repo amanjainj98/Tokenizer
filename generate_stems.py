@@ -4,6 +4,7 @@ def generate_all_derivations(lemma_file):
 	base_dervs = dict()
 
 	with open(lemma_file,'r') as f:
+		count = 1
 		for line in f:
 			line = line.split()
 			base = line[0].split('/')
@@ -14,10 +15,12 @@ def generate_all_derivations(lemma_file):
 			if not base.isalpha():
 				continue
 
-			if len(base) < 2:
+			if len(base) < 2 or (len(base) == 2 and count > 1000):
 				continue
 
 			base_dervs[base] = [derv for derv in dervs if derv.isalpha() and derv != base]
+
+			count += 1
 
 
 	# for key, value in base_dervs.items():
